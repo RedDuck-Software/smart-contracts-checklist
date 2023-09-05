@@ -13,6 +13,9 @@ If contract dont have to held eth/erc20 on it's balance
 
 ### For all projects
 
+Contracts usage
+- [ ] Aware of 3rd party audits for all contract that we used
+
 Tests
 - [ ] Property based tests for all contract's state and functions
 - [ ] 95%+ total test coverage
