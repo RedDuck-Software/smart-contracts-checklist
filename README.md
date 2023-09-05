@@ -3,7 +3,7 @@
 All options should be either checked or crossed out (if option does'nt meet project requirements)
 
 ### For small 1-2 contracts project with owner permissions
-- [ ] Should be upgradeable
+- [ ] Should be upgradeable (if there is no requirement for decentralization or if the contract is not supposed to hold any funds)
 - [ ] Should have withdraw ERC20/ETH functions for onlyOwner
 
 If contract dont have to held eth/erc20 on it's balance
